@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da200b57b763b7e4dbca3a0416984032
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 414172
+  packageName: "Cute Magic \u2013 Capybara Cube Animals Free"
+  packageVersion: 1.0.0
+  assetPath: Assets/CuteMagic_CubeAnimals_Capybara_Free/CubeAnimals_Capybara_Free/Shaders/ShaderMaster_Outline_V2.shader
+  uploadId: 1011506
